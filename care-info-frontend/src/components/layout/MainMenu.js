@@ -10,7 +10,7 @@ export default function MainMenu() {
   const links = [
     { route: "/", label: "Home" },
     { route: "/about", label: "Sobre" },
-    { route: "/blog", label: "Blog" },
+    { route: "/customer", label: "Paciente" },
     { route: "/contact", label: "Contato" },
   ];
 
